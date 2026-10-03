@@ -22,7 +22,7 @@ Use the existing function. Add no runtime dependency.
 2. Accept a valid value.
 
 ## Tests
-| Test | Asserts | Criterion |
-|---|---|---|
-| US-1-T-1 rejects invalid input | returns false | 1 |
-| US-1-T-1 accepts valid input | returns true | 2 |
+| Test                           | Asserts | Criterion |
+|--------------------------------|---|---|
+| US-2-T-1 rejects invalid input | returns false | 1 |
+| US-2-T-1 accepts valid input   | returns true | 2 |
