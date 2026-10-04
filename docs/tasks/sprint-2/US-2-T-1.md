@@ -1,7 +1,7 @@
 ---
 id: US-2-T-1
 story: US-1
-sprint: 2
+sprint: 1
 assignee: A. Student
 estimate_hours: 3
 ---
@@ -24,5 +24,5 @@ Use the existing function. Add no runtime dependency.
 ## Tests
 | Test                           | Asserts | Criterion |
 |--------------------------------|---|---|
-| US-1-T-1 rejects invalid input | returns false | 1 |
-| US-1-T-1 accepts valid input   | returns true | 2 |
+| US-2-T-1 rejects invalid input | returns false | 1 |
+| US-2-T-1 accepts valid input   | returns true | 2 |
