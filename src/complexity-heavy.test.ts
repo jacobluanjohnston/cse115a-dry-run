@@ -1,4 +1,4 @@
-// Complexity fixture for testing the risk-profile dashboard. Not real code; delete after testing.
+// Complex code inside a test-named file, to check whether test files affect structural risk. Delete after testing.
 
 export function fixtureScore01(a: number, b: number, mode: string, flags: boolean[]): number {
   let score = 1;
