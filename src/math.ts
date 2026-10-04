@@ -8,4 +8,4 @@ export const clamp = function (n: number, min: number, max: number): number {
   if (n < min) return min;
   if (n > max) return max;
   return n;
-};
+};export const isOdd = (n: number): boolean => n % 2 !== 0;
