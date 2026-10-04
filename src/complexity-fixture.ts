@@ -1,7 +1,7 @@
 // Complexity fixture for testing the risk-profile dashboard. Not real code; delete after testing.
 
 export function fixtureScore01(a: number, b: number, mode: string, flags: boolean[]): number {
-  let score = 1;
+  let score = 2;
   for (let i = 0; i < flags.length; i++) {
     if (flags[i]) {
       if (a > i) {
